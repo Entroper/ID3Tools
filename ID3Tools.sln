@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID3Lib", "ID3Lib\ID3Lib.csproj", "{6B3EE79A-D031-4026-B182-BAFF8B6A073E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{33CCD7C5-91CB-4655-B242-D8BF045FF05C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3Renamer", "MP3Renamer\MP3Renamer.csproj", "{19402535-3A38-464D-91C1-7E2DBF07F83A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3EE79A-D031-4026-B182-BAFF8B6A073E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3EE79A-D031-4026-B182-BAFF8B6A073E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3EE79A-D031-4026-B182-BAFF8B6A073E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3EE79A-D031-4026-B182-BAFF8B6A073E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CCD7C5-91CB-4655-B242-D8BF045FF05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CCD7C5-91CB-4655-B242-D8BF045FF05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CCD7C5-91CB-4655-B242-D8BF045FF05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CCD7C5-91CB-4655-B242-D8BF045FF05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19402535-3A38-464D-91C1-7E2DBF07F83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19402535-3A38-464D-91C1-7E2DBF07F83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19402535-3A38-464D-91C1-7E2DBF07F83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19402535-3A38-464D-91C1-7E2DBF07F83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
